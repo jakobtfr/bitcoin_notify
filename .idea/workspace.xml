@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jakobtfr"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/jakobtfr/bitcoin_notifyer.git",
@@ -69,7 +75,7 @@
       <workItem from="1712670317313" duration="68000" />
       <workItem from="1712670391200" duration="264000" />
       <workItem from="1712670662215" duration="2670000" />
-      <workItem from="1712680898980" duration="4440000" />
+      <workItem from="1712680898980" duration="4785000" />
     </task>
     <servers />
   </component>
@@ -81,7 +87,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
