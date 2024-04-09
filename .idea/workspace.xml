@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f27b0d81-9632-472d-b617-9b7b9edb6b65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bitcoin_notifyer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.py" afterDir="false" />
-    </list>
+    <list default="true" id="f27b0d81-9632-472d-b617-9b7b9edb6b65" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jakobtfr/bitcoin_notifyer.git",
+    "accountId": "9febcd25-68d5-4de2-aeb0-4ff00bf4cf45"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -71,7 +69,7 @@
       <workItem from="1712670317313" duration="68000" />
       <workItem from="1712670391200" duration="264000" />
       <workItem from="1712670662215" duration="2670000" />
-      <workItem from="1712680898980" duration="3858000" />
+      <workItem from="1712680898980" duration="4440000" />
     </task>
     <servers />
   </component>
